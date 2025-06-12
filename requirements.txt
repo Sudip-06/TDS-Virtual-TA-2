@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+aiohttp
+numpy
+pydantic
+beautifulsoup4
+markdown
+tqdm
+python-multipart
+setuptools
+playwright
+markdownify
