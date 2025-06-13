@@ -16,6 +16,6 @@ venv/
 
 preprocess_new.py
 #setup.py
-#tests.yaml
+tests.yaml
 *.pyc
 .DS_Store
