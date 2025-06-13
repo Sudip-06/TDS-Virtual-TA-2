@@ -11,7 +11,7 @@ venv/
 
 # Ignore files
 .env
-preprocess.py
+
 preprocess_new.py
 *.pyc
 .DS_Store
