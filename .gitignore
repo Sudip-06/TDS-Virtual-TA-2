@@ -3,6 +3,9 @@ downloaded_threads/
 markdown_files/
 discourse_json/
 __pycache__/
+auth.json
+discourse_posts.json
+# Ignore Python virtual environments
 venv/
 .venv/
 
