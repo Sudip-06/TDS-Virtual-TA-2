@@ -15,7 +15,7 @@ venv/
 .env
 
 preprocess_new.py
-setup.py
-tests.yaml
+#setup.py
+#tests.yaml
 *.pyc
 .DS_Store
